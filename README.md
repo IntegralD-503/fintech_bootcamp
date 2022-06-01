@@ -1,4 +1,3 @@
 # fintech_bootcamp
-fintech bootcamp
 
-git test...
+i like software / tech
